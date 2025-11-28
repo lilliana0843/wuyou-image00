@@ -6,7 +6,10 @@ body {
   padding: 0px;
   text-align: center;
 }
-
+h2 {
+  margin: 0;
+  padding: 0px 0; /* 可自行調整標題距離 */
+}
 .gallery {
   display: flex;
   flex-wrap: wrap;
